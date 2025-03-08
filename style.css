@@ -15,14 +15,10 @@ header {
 }
 
 .profile-pic {
-    width: 100px;  /* Adjust width */
-    height: 100px; /* Adjust height */
-    border-radius: 50%; /* Makes it circular */
-    object-fit: cover; /* Ensures the image looks good */
-    display: block;
-    margin: 20px auto;
-    border: 3px solid white; /* Optional border */
+    max-width: 100px;
+    height: auto;
 }
+
 
 header .intro h1 {
     font-size: 2.5rem;

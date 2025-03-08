@@ -13,9 +13,10 @@ header {
     padding: 50px;
     background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
 }
+
 .profile-pic {
-    width: 150px;  /* Adjust width */
-    height: 150px; /* Adjust height */
+    width: 100px;  /* Adjust width */
+    height: 100px; /* Adjust height */
     border-radius: 50%; /* Makes it circular */
     object-fit: cover; /* Ensures the image looks good */
     display: block;
